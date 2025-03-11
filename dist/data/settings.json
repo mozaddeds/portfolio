@@ -4,19 +4,19 @@
     "fullScreenButtonEnabled": true,
 
     "preloader": {
-        "enabled": true,
-        "title": "<b>Portfolio</b>",
+        "enabled": false,
+        "title": "React <b>Portfolio</b>",
         "subtitle": "by Mozadded Ul Islam"
     },
 
     "profile": {
         "name": "Mozadded Ul Islam",
-        "stylizedName": "<strong>**Mozadded** Ul Islam</strong>",
+        "stylizedName": "<strong>**Mozadded**</strong> Ul Islam",
         "logoUrl": "images/svg/logo.svg",
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Web Developer"},
+            "en": {"role": "Web Developer | Data Analyst"},
             "es": {"role": "Desarrollador Web"},
             "fr": {"role": "Développeur Web"},
             "ko": {"role": "웹 개발자"}
@@ -77,8 +77,8 @@
     ],
 
     "emailjs": {
-        "publicKey": "tzObcsmOwHvPy6Rhp",
-        "serviceId": "service_4h8g7vb",
-        "templateId": "template_seyjkzn"
+        "publicKey": "KRZnxmIRfbORfRitL",
+        "serviceId": "service_b4845v1",
+        "templateId": "template_6oxs5y8"
     }
 }

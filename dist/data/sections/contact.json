@@ -55,9 +55,9 @@
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+880 1810 56 30 47",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:+8801810563047"}
                     ],
                     "icon": {
                         "img": null,
@@ -73,9 +73,9 @@
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "pmozadded@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:pmozadded@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -89,9 +89,9 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@mozaddeds",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": "https://www.linkedin.com/in/mozaddeds/"}
                     ],
                     "icon": {
                         "img": null,
@@ -104,49 +104,20 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "@mozaddeds",
                     "links": [
-                        {"href": "https://facebook.com"}
+                        {"href": "https://www.github.com/mozaddeds/"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-facebook",
+                        "fa": "fa-brands fa-github",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://instagram.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-instagram",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Instagram"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://tiktok.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-tiktok",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "TikTok"}
+                        "en": {"title": "Github"}
                     }
                 }
+                
             ]
         }
     ]
