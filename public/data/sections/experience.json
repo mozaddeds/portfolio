@@ -1,0 +1,110 @@
+{
+    "locales": {
+      "en": {
+        "title": "Experience",
+        "title_long_prefix": "Summary of my",
+        "title_long": "**Work** Experience"
+      },
+      "es": {
+        "title": "Experiencia",
+        "title_long_prefix": "Resumen de mi",
+        "title_long": "Experiencia **Laboral**"
+      },
+      "fr": {
+        "title": "Expérience",
+        "title_long_prefix": "Résumé de mon",
+        "title_long": "Parcours **Professionel**"
+      },
+      "ko": {
+        "title": "경험",
+        "title_long_prefix": "이것은 내",
+        "title_long": "**직업적** 경험"
+      }
+    },
+    "articles": [
+      {
+        "id": "work",
+        "component": "ArticleTimeline",
+        "config": {},
+        "locales": {},
+        "items": [
+          {
+            "icon": {
+              "img": "images/pictures/bajhilogo.png",
+              "fa": "fa-solid fa-code",
+              "faColors": {"bg": null, "fill": null}
+            },
+            "dates": {
+              "start": "05/01/2024",
+              "end": "now"
+            },
+            "locales": {
+              "en": {
+                "title": "**Backend Developer**",
+                "info": "Bajhi",
+                "text": "<p>Leading backend development with focus on:</p> <ul><li>API Integration</li><li>Creating AI Agents</li><li>Integrating Multiple AI Tools</li><li>Database Management</li></ul>",
+                "tags": ["API Integration", "AI Agents", "AI Tools", "Database Management"]
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": "images/pictures/aitosocial.jpg",
+              "fa": "",
+              "faColors": {"bg": null, "fill": null}
+            },
+            "dates": {
+              "start": "01/01/2023",
+              "end": "12/01/2023"
+            },
+            "locales": {
+              "en": {
+                "title": "**Backend Developer**",
+                "info": "AI to Social",
+                "text": "Worked on API integration, including Dialogflow integration, focusing on enhancing communication interfaces.",
+                "tags": ["API Integration", "Dialogflow"]
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": "images/pictures/mentorness.png",
+              "fa": "",
+              "faColors": {"bg": null, "fill": null}
+            },
+            "dates": {
+              "start": "04/21/2024",
+              "end": "05/20/2024"
+            },
+            "locales": {
+              "en": {
+                "title": "**Data Analyst Intern**",
+                "info": "Mentorness",
+                "text": "<p>Executed key responsibilities including:</p> <ul><li>Managing SQL Database and Queries</li><li>PowerBI Dashboard Creations</li><li>Presenting Reports and Decision Making</li></ul> <p>Internship in Ahmedabad, Gujarat, India</p>",
+                "tags": ["SQL", "PowerBI", "Data Analysis"]
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": "images/pictures/tarsbinary.jpg",
+              "fa": "",
+              "faColors": {"bg": null, "fill": null}
+            },
+            "dates": {
+              "start": "11/30/2022",
+              "end": "12/11/2022"
+            },
+            "locales": {
+              "en": {
+                "title": "**Web Developer**",
+                "info": "TARS Binary",
+                "text": "Created a portfolio website during a 11-day contractual job, successfully delivering a complete and functional web solution.",
+                "tags": ["Web Development", "Portfolio Website"]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

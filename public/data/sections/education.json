@@ -1,0 +1,145 @@
+{
+    "locales": {
+      "en": {
+        "title": "Education",
+        "title_long_prefix": "",
+        "title_long": "**Educational** Background"
+      },
+      "es": {
+        "title": "Educación",
+        "title_long_prefix": "",
+        "title_long": "**Formación** Educativa"
+      },
+      "fr": {
+        "title": "Éducation",
+        "title_long_prefix": "",
+        "title_long": "**Contexte** Éducatif"
+      },
+      "ko": {
+        "title": "교육",
+        "title_long_prefix": "",
+        "title_long": "**교육적** 배경"
+      }
+    },
+    "articles": [
+      {
+        "id": "academic",
+        "component": "ArticleTimeline",
+        "config": {},
+        "locales": {},
+        "items": [
+          {
+            "icon": {
+              "img": "images/pictures/julogo.png",
+              "fa": "",
+              "faColors": {"bg": null, "fill": null}
+            },
+            "dates": {
+              "start": "01/01/2018",
+              "end": "12/01/2022"
+            },
+            "locales": {
+              "en": {
+                "title": "**BSc** in Information Technology",
+                "info": "Jahangirnagar University",
+                "text": "During my BSc at Jahangirnagar University, I developed strong foundations in data structures, object-oriented programming, development, machine learning, and artificial intelligence.",
+                "tags": []
+              },
+              "es": {
+                "title": "**Licenciatura** en Tecnología de la Información",
+                "info": "Universidad de Jahangirnagar",
+                "text": "Durante mi licenciatura en la Universidad de Jahangirnagar, desarrollé una sólida base en estructuras de datos, programación orientada a objetos, desarrollo, aprendizaje automático e inteligencia artificial.",
+                "tags": null
+              },
+              "fr": {
+                "title": "**Licence** en Technologie de l'Information",
+                "info": "Université de Jahangirnagar",
+                "text": "Pendant ma licence à l'Université de Jahangirnagar, j'ai développé de solides bases en structures de données, programmation orientée objet, développement, apprentissage automatique et intelligence artificielle.",
+                "tags": null
+              },
+              "ko": {
+                "title": "정보 기술에 대한 **학사**",
+                "info": "자한기르나가르 대학교",
+                "text": "자한기르나가르 대학교에서의 학사 과정 동안, 데이터 구조, 객체 지향 프로그래밍, 개발, 머신러닝 및 인공지능에 대한 강력한 기초를 개발했습니다.",
+                "tags": null
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": "images/pictures/BMARPCLOGO.png",
+              "fa": "",
+              "faColors": {"bg": null, "fill": null}
+            },
+            "dates": {
+              "start": "01/07/2015",
+              "end": "01/06/2017"
+            },
+            "locales": {
+              "en": {
+                "title": "**HSC** in Science",
+                "info": "Birshreshtha Munshi Abdur Rouf Public College",
+                "text": "Pursued my HSC in Science at Birshreshtha Munshi Abdur Rouf Public College, building a strong foundation in the sciences.",
+                "tags": []
+              },
+              "es": {
+                "title": "**Educación Secundaria** en Ciencias",
+                "info": "Colegio Público Birshreshtha Munshi Abdur Rouf",
+                "text": "Pursuí mi HSC en Ciencias en el Colegio Público Birshreshtha Munshi Abdur Rouf, construyendo una fuerte base en las ciencias.",
+                "tags": null
+              },
+              "fr": {
+                "title": "**Études Secondaires** en Sciences",
+                "info": "Collège Public Birshreshtha Munshi Abdur Rouf",
+                "text": "J'ai poursuivi mon HSC en Sciences au Collège Public Birshreshtha Munshi Abdur Rouf, construisant une solide base en sciences.",
+                "tags": null
+              },
+              "ko": {
+                "title": "**과학**에서의 고등학교 졸업",
+                "info": "Birshreshtha Munshi Abdur Rouf 공립대학",
+                "text": "Birshreshtha Munshi Abdur Rouf 공립대학에서 과학에서 HSC를 추구하여 과학에 대한 강력한 기초를 쌓았습니다.",
+                "tags": null
+              }
+            }
+          },
+          {
+            "icon": {
+              "img": "images/pictures/pzs.png",
+              "fa": "",
+              "faColors": {"bg": null, "fill": null}
+            },
+            "dates": {
+              "start": "01/01/2010",
+              "end": "01/04/2015"
+            },
+            "locales": {
+              "en": {
+                "title": "**SSC** in Science",
+                "info": "Pabna Zilla School",
+                "text": "Completed my SSC in Science from Pabna Zilla School, where I laid the groundwork for my scientific education.",
+                "tags": []
+              },
+              "es": {
+                "title": "**Educación Secundaria** en Ciencias",
+                "info": "Escuela Zilla de Pabna",
+                "text": "Completé mi SSC en Ciencias en la Escuela Zilla de Pabna, donde senté las bases para mi educación científica.",
+                "tags": null
+              },
+              "fr": {
+                "title": "**Études Secondaires Second Cycle** en Sciences",
+                "info": "École Zilla de Pabna",
+                "text": "J'ai terminé mon SSC en Sciences à l'École Zilla de Pabna, où j'ai posé les bases de mon éducation scientifique.",
+                "tags": null
+              },
+              "ko": {
+                "title": "**과학**에서의 고등학교 졸업",
+                "info": "파브나 질라 학교",
+                "text": "파브나 질라 학교에서 과학에서 SSC를 완료하여 과학 교육의 기초를 마련했습니다.",
+                "tags": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

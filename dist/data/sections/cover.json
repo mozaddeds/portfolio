@@ -1,0 +1,404 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Mozadded Ul Islam**"
+        },
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Mozadded Ul Islam**"
+        },
+        "fr": {
+            "title": "Salut !",
+            "title_menu": "À propos",
+            "title_long_prefix": "Salut...",
+            "title_long": "Je suis **Mozadded Ul Islam**"
+        },
+        "ko": {
+            "title": "환영합니다!",
+            "title_menu": "소개",
+            "title_long_prefix": "안녕하세요...",
+            "title_long": "저는 **Mozadded Ul Islam** 입니다!"
+        }
+    },
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+            "items": [
+                {
+                    "value": "Dhaka – BD",
+                    "links": [
+                        {
+                            "href": null
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "pmozadded@gmail.com",
+                    "links": [
+                        {
+                            "href": "mailto:pmozadded@gmail.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "@mozaddeds",
+                    "links": [
+                        {
+                            "href": "https://github.com/mozaddeds"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "**A little bit** about me..."
+                },
+                "es": {
+                    "title": "**Un poco** sobre mí..."
+                },
+                "fr": {
+                    "title": "**Un peu** à propos de moi..."
+                },
+                "ko": {
+                    "title": "저에 **대해 조금**..."
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "text": "<p>I’m a JavaScript developer with a strong focus on <b>ReactJS</b> and <b>NodeJS</b>, bringing a wealth of experience in building dynamic and scalable web applications. I also have a keen interest in <b>Python</b> and am proficient in the <b>Django framework</b>, which allows me to tackle a variety of backend challenges with ease.</p><p>In addition to my development skills, I have a solid foundation in <b>data analysis</b> and am currently working on developing <b>agent AIs</b>, blending my technical expertise with innovative problem-solving. My experience spans both <b>SQL</b> and <b>NoSQL</b> databases, giving me the flexibility to choose the right tool for any project.</p><p>This diverse skill set enables me to adapt to a wide range of project needs, and I’m excited about the opportunity to collaborate <b>with you!</b></p>"
+                        },
+                        "es": {
+                            "text": "<p>Soy un desarrollador de JavaScript con un fuerte enfoque en <b>ReactJS</b> y <b>NodeJS</b>, y cuento con una amplia experiencia en la creación de aplicaciones web dinámicas y escalables. También tengo un gran interés en Python y soy competente en el <b>framework Django</b>, lo que me permite abordar diversos desafíos en el backend con facilidad.</p><p>Además de mis habilidades de desarrollo, tengo una base sólida en <b>análisis de datos</b> y actualmente estoy trabajando en el desarrollo de <b>IA agentes</b>, combinando mi experiencia técnica con soluciones innovadoras. Mi experiencia abarca tanto bases de datos <b>SQL</b> como <b>NoSQL</b>, lo que me brinda la flexibilidad para elegir la herramienta adecuada para cualquier proyecto.</p><p>Este conjunto diverso de habilidades me permite adaptarme a una amplia gama de necesidades de proyectos, y estoy emocionado por la oportunidad de colaborar <b>¡contigo!</b></p>"
+                        },
+                        "fr": {
+                            "text": "<p>Je suis un développeur JavaScript spécialisé dans <b>ReactJS</b> et <b>NodeJS</b>, avec une solide expérience dans la création d'applications web dynamiques et évolutives. Je m'intéresse également à Python et maîtrise le <b>framework Django</b>, ce qui me permet de relever divers défis backend avec aisance.</p><p>En plus de mes compétences en développement, j'ai une base solide en <b>analyse de données</b> et je travaille actuellement sur le développement d'<b>IA agents</b>, alliant mon expertise technique à des solutions innovantes. Mon expérience couvre à la fois les bases de données <b>SQL</b> et <b>NoSQL</b>, me donnant la flexibilité de choisir l'outil adapté à chaque projet.</p><p>Cette diversité de compétences me permet de m'adapter à un large éventail de besoins de projets, et je suis enthousiaste à l'idée de collaborer <b>avec vous !</b></p>"
+                        },
+                        "ko": {
+                            "text": "<p>저는 <b>ReactJS</b>와 <b>NodeJS</b>에 중점을 둔 JavaScript 개발자로, 동적이고 확장 가능한 웹 애플리케이션을 구축하는 데 풍부한 경험을 가지고 있습니다. 또한 Python에 관심이 많고 <b>Django 프레임워크</b>에 능숙하여 다양한 백엔드 문제를 쉽게 해결할 수 있습니다.</p><p>개발 기술 외에도, 저는 <b>데이터 분석</b>에 탄탄한 기반을 가지고 있으며, 현재 <b>에이전트 AI</b> 개발에 주력하고 있습니다. 이를 통해 기술적 전문성과 혁신적인 문제 해결 능력을 결합하고 있습니다. 저는 <b>SQL</b>과 <b>NoSQL</b> 데이터베이스 모두에 경험이 있어 어떤 프로젝트에도 적합한 도구를 선택할 수 있는 유연성을 가지고 있습니다.</p><p>이러한 다양한 기술 세트를 통해 다양한 프로젝트 요구 사항에 적응할 수 있으며, <b>여러분과 협력할</b> 기회를 기대합니다!</p>"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "**testimonials**"
+                },
+                "es": {
+                    "title": "**Testimonios**"
+                },
+                "fr": {
+                    "title": "**Témoignages**"
+                },
+                "ko": {
+                    "title": "**추천사**"
+                }
+            },
+            "items": [
+                {
+                    "value": "Abdullah Al Mahmud",
+                    "links": [
+                        {
+                            "href": "https://linkedin.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": "images/pictures/abdullahalmahmud.jpg",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Owner & CEO at <b>Bajhi.com</b>",
+                            "text": "Working with Mozadded Ul Islam is an amazing experience. He gets his job done very dedicatedly. Super hardworking."
+                        },
+                        "es": {
+                            "info": "Propietario y CEO en <b>Bajhi.com</b>",
+                            "text": "Trabajar con Mozadded Ul Islam es una experiencia increíble. Realiza su trabajo de manera muy dedicada. Súper trabajador."
+                        },
+                        "fr": {
+                            "info": "Propriétaire et PDG de <b>Bajhi.com</b>",
+                            "text": "Travailler avec Mozadded Ul Islam est une expérience incroyable. Il fait son travail très assidûment. Super travailleur."
+                        },
+                        "ko": {
+                            "info": "<b>Bajhi.com</b> 창립자 및 CEO",
+                            "text": "Mozadded Ul Islam과 함께 일하는 것은 놀라운 경험입니다. 그는 일을 매우 성실하게 수행합니다. 매우 성실합니다."
+                        }
+                    }
+                },
+                {
+                    "value": "Riphat Rabby",
+                    "links": [
+                        {
+                            "href": "https://www.linkedin.com/in/ahmed-rabbi/"
+                        }
+                    ],
+                    "icon": {
+                        "img": "images/pictures/riphatrabby.jpg",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Admin & Compliance at <b>Decathlon Bangladesh</b>",
+                            "text": "Mozadded is very productive and promising with his ideas and implementations."
+                        },
+                        "es": {
+                            "info": "Administración y Cumplimiento en <b>Decathlon Bangladesh</b>",
+                            "text": "Mozadded es muy productivo y prometedor con sus ideas e implementaciones."
+                        },
+                        "fr": {
+                            "info": "Administration et conformité chez <b>Decathlon Bangladesh</b>",
+                            "text": "Mozadded est très productif et prometteur avec ses idées et mises en œuvre."
+                        },
+                        "ko": {
+                            "info": "<b>Decathlon Bangladesh</b> 관리 및 준수",
+                            "text": "Mozadded는 아이디어와 구현이 매우 생산적이고 유망합니다."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {
+                    "title": "Personal **interests**"
+                },
+                "es": {
+                    "title": "Intereses **personales**"
+                },
+                "fr": {
+                    "title": "Intérêts **personnels** "
+                },
+                "ko": {
+                    "title": "개인 **관심사**"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Creating AI Agents",
+                            "info": "Finding ways to integrate different AI tools and automations to handle multiple tasks smoothly and effectively to bring an amazing experience."
+                        },
+                        "es": {
+                            "title": "Creación de Agentes IA",
+                            "info": "Encontrar formas de integrar diferentes herramientas de IA y automatizaciones para manejar múltiples tareas de manera fluida y efectiva para ofrecer una experiencia increíble."
+                        },
+                        "fr": {
+                            "title": "Création d'Agents IA",
+                            "info": "Trouver des moyens d'intégrer différents outils et automatisations IA pour gérer plusieurs tâches de manière fluide et efficace afin d'offrir une expérience incroyable."
+                        },
+                        "ko": {
+                            "title": "AI 에이전트 제작",
+                            "info": "다양한 AI 도구와 자동화를 통합하여 여러 작업을 원활하고 효과적으로 처리하여 놀라운 경험을 제공하기 위한 방법 찾기."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Backend Development",
+                            "info": "Ensuring the integration and processes handle every bit of your data efficiently."
+                        },
+                        "es": {
+                            "title": "Desarrollo Backend",
+                            "info": "Asegurando que la integración y los procesos manejen cada bit de sus datos de manera eficiente."
+                        },
+                        "fr": {
+                            "title": "Développement Backend",
+                            "info": "Assurer que l'intégration et les processus gèrent chaque bit de vos données efficacement."
+                        },
+                        "ko": {
+                            "title": "백엔드 개발",
+                            "info": "통합 및 프로세스가 모든 데이터를 효율적으로 처리하도록 보장하기."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-pie",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Data Analysis",
+                            "info": "Transforming data into actionable insights for strategic decision making."
+                        },
+                        "es": {
+                            "title": "Análisis de Datos",
+                            "info": "Transformar datos en conocimientos accionables para la toma de decisiones estratégicas."
+                        },
+                        "fr": {
+                            "title": "Analyse de Données",
+                            "info": "Transformer les données en informations exploitables pour la prise de décisions stratégiques."
+                        },
+                        "ko": {
+                            "title": "데이터 분석",
+                            "info": "데이터를 전략적 의사 결정에 유용한 인사이트로 변환하기."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning",
+                            "info": "Developing intelligent systems through data-driven models."
+                        },
+                        "es": {
+                            "title": "Aprendizaje Automático",
+                            "info": "Desarrollar sistemas inteligentes mediante modelos basados en datos."
+                        },
+                        "fr": {
+                            "title": "Apprentissage Automatique",
+                            "info": "Développer des systèmes intelligents grâce à des modèles basés sur les données."
+                        },
+                        "ko": {
+                            "title": "기계 학습",
+                            "info": "데이터 기반 모델을 통한 지능형 시스템 개발."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-book",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Reading Books",
+                            "info": "Exploring diverse worlds and expanding knowledge through literature."
+                        },
+                        "es": {
+                            "title": "Lectura de Libros",
+                            "info": "Explorar mundos diversos y ampliar conocimientos a través de la literatura."
+                        },
+                        "fr": {
+                            "title": "Lire des Livres",
+                            "info": "Explorer des mondes divers et élargir les connaissances à travers la littérature."
+                        },
+                        "ko": {
+                            "title": "책 읽기",
+                            "info": "문학을 통해 다양한 세계를 탐험하고 지식을 확장하기."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-users",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Meeting New People",
+                            "info": "Connecting and exchanging ideas to grow and innovate."
+                        },
+                        "es": {
+                            "title": "Conocer Gente Nueva",
+                            "info": "Conectar e intercambiar ideas para crecer y innovar."
+                        },
+                        "fr": {
+                            "title": "Rencontrer de Nouvelles Personnes",
+                            "info": "Se connecter et échanger des idées pour croître et innover."
+                        },
+                        "ko": {
+                            "title": "새로운 사람 만나기",
+                            "info": "연결하고 성장과 혁신을 위한 아이디어 교환하기."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,631 @@
+{
+    "locales": {
+        "en": {
+            "title": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My **Skill Set**"
+        },
+        "es": {
+            "title": "Habilidades",
+            "title_long_prefix": "Explora",
+            "title_long": "Mis **Habilidades**"
+        },
+        "fr": {
+            "title": "Capacités",
+            "title_long_prefix": "Explorez",
+            "title_long": "Mes **Compétences**"
+        },
+        "ko": {
+            "title": "스킬",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**스킬**입니다"
+        }
+    },
+    "articles": [
+        {
+            "id": "capabilities",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**AI Agent** Creation",
+                            "text": "Developing intelligent AI agents to automate tasks and improve efficiency."
+                        },
+                        "es": {
+                            "title": "Creación de **Agentes IA**",
+                            "text": "Desarrollo de agentes inteligentes de IA para automatizar tareas y mejorar la eficiencia."
+                        },
+                        "fr": {
+                            "title": "Création d'**Agents IA**",
+                            "text": "Développer des agents intelligents IA pour automatiser les tâches et améliorer l'efficacité."
+                        },
+                        "ko": {
+                            "title": "**AI 에이전트** 제작",
+                            "text": "작업을 자동화하고 효율성을 향상시키기 위해 AI 에이전트 개발."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web** Development",
+                            "text": "Crafting responsive and user-friendly web applications."
+                        },
+                        "es": {
+                            "title": "Desarrollo **Web**",
+                            "text": "Crear aplicaciones web receptivas y amigables para el usuario."
+                        },
+                        "fr": {
+                            "title": "Développement **Web**",
+                            "text": "Concevoir des applications web réactives et conviviales."
+                        },
+                        "ko": {
+                            "title": "**웹** 개발",
+                            "text": "반응형이고 사용자가 편리한 웹 애플리케이션 제작."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Backend** Processing",
+                            "text": "Ensuring efficient data handling and processing on the server."
+                        },
+                        "es": {
+                            "title": "Procesamiento **Backend**",
+                            "text": "Garantizar un manejo y procesamiento de datos eficiente en el servidor."
+                        },
+                        "fr": {
+                            "title": "Traitement **Backend**",
+                            "text": "Assurer une gestion et un traitement efficaces des données sur le serveur."
+                        },
+                        "ko": {
+                            "title": "**백엔드** 처리",
+                            "text": "서버에서 효율적인 데이터 처리 및 처리 보장."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** Management",
+                            "text": "Optimizing and maintaining databases for seamless performance."
+                        },
+                        "es": {
+                            "title": "Gestión de **Bases de Datos**",
+                            "text": "Optimización y mantenimiento de bases de datos para un rendimiento sin problemas."
+                        },
+                        "fr": {
+                            "title": "Gestion de **Base de Données**",
+                            "text": "Optimiser et maintenir les bases de données pour des performances sans faille."
+                        },
+                        "ko": {
+                            "title": "**데이터베이스** 관리",
+                            "text": "매끄러운 성능을 위해 데이터베이스 최적화 및 유지 관리."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-paper-plane",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**API** Integration",
+                            "text": "Seamlessly integrating APIs to enhance application functionality."
+                        },
+                        "es": {
+                            "title": "Integración de **APIs**",
+                            "text": "Integrar APIs de manera fluida para mejorar la funcionalidad de la aplicación."
+                        },
+                        "fr": {
+                            "title": "Intégration d'**API**",
+                            "text": "Intégrer les APIs de manière transparente pour améliorer la fonctionnalité de l'application."
+                        },
+                        "ko": {
+                            "title": "**API** 통합",
+                            "text": "애플리케이션 기능을 향상시키기 위해 API를 원활하게 통합."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-bar",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data** Analysis",
+                            "text": "Analyzing and interpreting complex datasets to drive business decisions."
+                        },
+                        "es": {
+                            "title": "Análisis de **Datos**",
+                            "text": "Analizar e interpretar conjuntos de datos complejos para impulsar decisiones empresariales."
+                        },
+                        "fr": {
+                            "title": "Analyse de **Données**",
+                            "text": "Analyser et interpréter des ensembles de données complexes pour orienter les décisions commerciales."
+                        },
+                        "ko": {
+                            "title": "**데이터** 분석",
+                            "text": "비즈니스 결정을 내리기 위해 복잡한 데이터 세트를 분석하고 해석."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Machine Learning**",
+                            "text": "Designing and implementing machine learning models to leverage data insights."
+                        },
+                        "es": {
+                            "title": "Aprendizaje **Automático**",
+                            "text": "Diseñar e implementar modelos de aprendizaje automático para aprovechar los conocimientos de los datos."
+                        },
+                        "fr": {
+                            "title": "Apprentissage **Automatique**",
+                            "text": "Concevoir et mettre en œuvre des modèles d'apprentissage automatique pour exploiter les informations des données."
+                        },
+                        "ko": {
+                            "title": "기계 **학습**",
+                            "text": "데이터 인사이트를 활용하기 위해 기계 학습 모델 설계 및 구현."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "backend_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Backend"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-node-js",
+                        "faColors": {
+                            "bg": "#339933",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "01/15/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Node.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {
+                            "bg": "#04420f",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Django",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {
+                            "bg": "#306998",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Python 3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {
+                            "bg": "#F05032",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "01/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "front_end_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Frontend"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {
+                            "bg": "#61DAFB",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "06/20/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "ReactJS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {
+                            "bg": "#F7DF1E",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "03/10/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript ES6+",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html5",
+                        "faColors": {
+                            "bg": "#E34F26",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "09/01/2017"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-css3",
+                        "faColors": {
+                            "bg": "#1572B6",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "01/15/2017"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CSS3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-bootstrap",
+                        "faColors": {
+                            "bg": "#7952B3",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": "02/10/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Languages"
+                },
+                "es": {
+                    "title": "Idiomas"
+                },
+                "fr": {
+                    "title": "Langues"
+                },
+                "ko": {
+                    "title": "언어"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/flags/en.png",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "info": "Fluent in English with strong communication skills.",
+                            "tags": [
+                                "Fluent"
+                            ]
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "info": "Fluido en inglés con sólidas habilidades de comunicación.",
+                            "tags": [
+                                "Fluido"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "info": "Fluent en anglais avec de solides compétences en communication.",
+                            "tags": [
+                                "Fluent"
+                            ]
+                        },
+                        "ko": {
+                            "title": "영어",
+                            "info": "영어에 유창하고 뛰어난 의사소통 능력을 갖추고 있습니다.",
+                            "tags": [
+                                "유창"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/flags/bd.png",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Bangla",
+                            "info": "Native speaker with a deep understanding of cultural nuances.",
+                            "tags": [
+                                "Native"
+                            ]
+                        },
+                        "es": {
+                            "title": "Bengalí",
+                            "info": "Hablante nativo con un profundo entendimiento de las normas culturales.",
+                            "tags": [
+                                "Nativo"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Bengali",
+                            "info": "Locuteur natif avec une compréhension approfondie des nuances culturelles.",
+                            "tags": [
+                                "Natif"
+                            ]
+                        },
+                        "ko": {
+                            "title": "벵골어",
+                            "info": "문화적 뉘앙스를 깊이 이해하는 모국어 사용자.",
+                            "tags": [
+                                "모국어"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/flags/in.png",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Hindi",
+                            "info": "Intermediate level, capable of holding conversations and understanding written texts.",
+                            "tags": [
+                                "Intermediate"
+                            ]
+                        },
+                        "es": {
+                            "title": "Hindi",
+                            "info": "Nivel intermedio, capaz de mantener conversaciones y entender textos escritos.",
+                            "tags": [
+                                "Intermedio"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Hindi",
+                            "info": "Niveau intermédiaire, capable de tenir des conversations et de comprendre des textes écrits.",
+                            "tags": [
+                                "Intermédiaire"
+                            ]
+                        },
+                        "ko": {
+                            "title": "힌디어",
+                            "info": "중급 수준으로 대화 및 문서 이해 가능.",
+                            "tags": [
+                                "중급"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/flags/es.png",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Spanish",
+                            "info": "Beginner level, able to communicate basic ideas.",
+                            "tags": [
+                                "Beginner"
+                            ]
+                        },
+                        "es": {
+                            "title": "Español",
+                            "info": "Nivel principiante, capaz de comunicar ideas básicas.",
+                            "tags": [
+                                "Principiante"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Espagnol",
+                            "info": "Niveau débutant, capable de communiquer des idées de base.",
+                            "tags": [
+                                "Débutant"
+                            ]
+                        },
+                        "ko": {
+                            "title": "스페인어",
+                            "info": "초급 수준으로 기본 아이디어를 전달할 수 있음.",
+                            "tags": [
+                                "초급"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
