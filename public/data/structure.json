@@ -27,7 +27,16 @@
             "jsonPath": "/data/sections/experience.json",
             "faIcon": "fa-solid fa-briefcase"
         },
+
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/data/sections/portfolio.json",
+            "faIcon": "fa-solid fa-folder-open"
+        },
+
         
+
         {
             "id": "contact",
             "categoryId": "more",

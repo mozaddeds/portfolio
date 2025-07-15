@@ -5,8 +5,8 @@
 
     "preloader": {
         "enabled": true,
-        "title": "React <b>Portfolio</b>",
-        "subtitle": "by Mozadded Ul Islam"
+        "title": "Welcome",
+        "subtitle": "by <b>Mozadded Ul Islam</b>"
     },
 
     "profile": {
