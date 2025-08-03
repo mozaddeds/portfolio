@@ -97,6 +97,72 @@
                     "categoryId": "websites",
                     "icon": {
                         "img": "",
+                        "fa": "fa-solid fa-cart-shopping",
+                        "faColors": {
+                            "bg": "#2dd4bf",
+                            "fill": "#ffffff"
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "https://github.com/mozaddeds/Ecommerce-Site-With-Redux-and-TailwindCSS"
+                        }
+                    ],
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Ecommerce Site With Redux and TailwindCSS",
+                            "text": "A modern, <b>SEO-optimized</b> e-commerce frontend built with <b>Next.js</b>, <b>Redux Toolkit</b>, and <b>Tailwind CSS</b>. Features responsive design and state management for complex e-commerce workflows.",
+                            "tags": [
+                                "NextJS",
+                                "API",
+                                "Redux",
+                                "TailwindCSS"
+                            ]
+                        },
+                        "es": {
+                            "title": "Sitio Ecommerce con Redux y TailwindCSS",
+                            "text": "Un frontend <b>moderno y optimizado para SEO</b> para comercio electrónico, desarrollado con <b>Next.js</b>, <b>Redux Toolkit</b> y <b>Tailwind CSS</b>. Incluye diseño responsive y gestión de estado para flujos de trabajo complejos.",
+                            "tags": [
+                                "NextJS",
+                                "API",
+                                "Redux",
+                                "TailwindCSS"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Site Ecommerce avec Redux et TailwindCSS",
+                            "text": "Un frontend e-commerce <b>moderne et optimisé SEO</b> construit avec <b>Next.js</b>, <b>Redux Toolkit</b> et <b>Tailwind CSS</b>. Comprend un design responsive et la gestion d'état pour les workflows e-commerce complexes.",
+                            "tags": [
+                                "NextJS",
+                                "API",
+                                "Redux",
+                                "TailwindCSS"
+                            ]
+                        },
+                        "ko": {
+                            "title": "Redux와 TailwindCSS로 만든 이커머스 사이트",
+                            "text": "<b>Next.js</b>, <b>Redux Toolkit</b>, <b>Tailwind CSS</b>로 제작된 현대적인 <b>SEO 최적화</b> 이커머스 프론트엔드. 반응형 디자인과 복잡한 이커머스 워크플로우를 위한 상태 관리 기능을 갖추고 있습니다.",
+                            "tags": [
+                                "NextJS",
+                                "API",
+                                "Redux",
+                                "TailwindCSS"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "",
                         "fa": "",
                         "faColors": {
                             "bg": null,
